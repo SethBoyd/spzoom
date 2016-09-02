@@ -1,0 +1,29 @@
+{
+  "name": "spzoom",
+  "description": "Simple jQuery image zoomer",
+  "main": [
+    "jquery.spzoom.js",
+    "jquery.spzoom.css"
+  ],
+  "keywords": [
+    "image",
+    "zoom",
+    "spzoom",
+    "jquery",
+    "plugin",
+    "html",
+    "css",
+    "javascript",
+    "front-end",
+    "web",
+    "development"
+  ],
+  "homepage": "https://github.com/spajak/spzoom",
+  "authors": [
+    "Sebastian Spajak"
+  ],
+  "ignore": [
+    "**/.*",
+    "test",
+  ]
+}
